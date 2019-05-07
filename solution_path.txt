@@ -1,0 +1,10 @@
+Erde
+node_810
+node_595
+node_132
+node_519
+node_71
+node_432
+b3-r7-r4nd7
+
+Total cost from Erde to b3-r7-r4nd7: 2.995687895999458
